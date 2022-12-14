@@ -1,0 +1,7 @@
+---
+Name: CSPHeadersExtensions
+---
+after: '*'
+PageController:
+  extensions:
+    - ornatipinnis\Extensions\CSPHeaders
